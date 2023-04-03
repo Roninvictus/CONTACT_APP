@@ -1,4 +1,4 @@
-# CONTACT_APP
+# Midterm-progress
 # Victor Sokowocin Yusuf
 # Student ID: A00254959
 
